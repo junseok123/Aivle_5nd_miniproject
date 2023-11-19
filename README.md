@@ -14,8 +14,7 @@
 </br></br>
 
 ## Result
-|<img width="200" alt="image" src="https://github.com/Jasonify97/5nd_mini_project/assets/98500133/d0c63ecb-f8d8-4d7f-aeb1-dca1072098f8">|<img alt="image" width="200" src="https://github.com/Jasonify97/5nd_mini_project/assets/98500133/9f5a7561-b438-4c87-9c54-d608523ba4aa">|
-|:---:|:---:|
-
+|<img width="200" alt="image" src="https://github.com/junseok123/Aivle_5nd_miniproject/assets/57626712/70713980-db43-4e58-b14f-86c10b95f478">|
+|:---:
 
 
