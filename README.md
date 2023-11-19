@@ -10,7 +10,7 @@
 
 ## 분석/시각화 및 모델 생성
 👉[데이터 분석/시각화 및 ](https://github.com/junseok123/Aivle_5nd_miniproject/blob/master/1.EDA.ipynb)
-👉[분류 모델 생성]
+👉[분류 모델 생성](https://github.com/junseok123/Aivle_5nd_miniproject/blob/master/3.%EB%8B%A8%EA%B3%84%EB%B3%84%20%EB%AA%A8%EB%8D%B8%EB%A7%81.ipynb)
 </br></br>
 
 ## Result
